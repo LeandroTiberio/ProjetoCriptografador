@@ -1,0 +1,12 @@
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\bin\Debug\net6.0\Criptografador.data.deps.json
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\bin\Debug\net6.0\Criptografador.data.dll
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\bin\Debug\net6.0\Criptografador.data.pdb
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\Criptografador.data.csproj.AssemblyReference.cache
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\Criptografador.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\Criptografador.data.AssemblyInfoInputs.cache
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\Criptografador.data.AssemblyInfo.cs
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\Criptografador.data.csproj.CoreCompileInputs.cache
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\Criptografador.data.dll
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\refint\Criptografador.data.dll
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\Criptografador.data.pdb
+C:\Users\Tiberio\Desktop\Curso\ProjetoCriptografador\Criptografador.data\obj\Debug\net6.0\ref\Criptografador.data.dll
