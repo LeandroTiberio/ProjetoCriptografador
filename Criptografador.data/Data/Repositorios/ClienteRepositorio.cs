@@ -9,13 +9,13 @@ namespace Criptografador.data.Data.Repositorios
         
         private readonly CriptografadorContext _context;
 
-        public ClienteRepositorio(CriptografadorContext context) : base(context, context.Cliente)
+        public ClienteRepositorio(CriptografadorContext context) : base(context, context.Clientes)
         {
             _context = context;
         }
         public async Task BuscarTodosAsync(int IdClientes, string IdRestaurantes )
         {
-            var item = await _context.Cliente.AsNoTracking().FirstAsync(x => x.Id == IdClientes);
+            var item = await _context.Clientes.AsNoTracking().FirstAsync(x => x.Id == IdClientes);
             await _context.SaveChangesAsync();
             
         }

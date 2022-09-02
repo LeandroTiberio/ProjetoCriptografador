@@ -5,7 +5,7 @@ namespace Criptografador.data.Data
 {
     public class CriptografadorContext : DbContext
     {
-        public CriptografadorContext(DbContextOptions options) : base (options)
+        public CriptografadorContext(DbContextOptions context) : base (context)
         {
 
         }
@@ -55,10 +55,10 @@ namespace Criptografador.data.Data
 
 
         } 
-        public DbSet<Restaurante> Restaurante { get; set; }
-        public DbSet<Cliente> Cliente { get; set; }
-        public DbSet<Entregador> Entregador { get; set; }
-        public DbSet<Pedido> Pedido { get; set; }
-        public DbSet<Produto> Produto { get; set; }
+        public DbSet<Restaurante> Restaurantes { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Entregador> Entregadores { get; set; }
+        public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
     }
 }
